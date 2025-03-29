@@ -4,7 +4,7 @@ all-tcp-mode = false
 skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local, e.crashlytics.com , *.jd.com , *.qq.com
 bypass-tun = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12
 [Proxy]
-G1.Esg2=https,g1-Esg2.go2https.com,20002,lirongnan,lirongnan0324sc
+G1.Esg2=https,g1-Esg2.go2https.com,20002,lirongnan,lirongnan0324sc12333
 G2.hk02=https,g2-hk02.go2https.com,20004,lirongnan,lirongnan0324sc
 G1.hk01=https,g1-hk01.go2https.com,20005,lirongnan,lirongnan0324sc
 G2.jp4=https,g2-jp4.go2https.com,20006,lirongnan,lirongnan0324sc
@@ -105,7 +105,7 @@ DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-KEYWORD,whatsapp
 
 // chatgpt
-DOMAIN,browser-intake-datadoghq.com
+DOMAIN,browser-intake-datadoghq.com1233
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,gemini.google.com
 DOMAIN,openai-api.arkoselabs.com
